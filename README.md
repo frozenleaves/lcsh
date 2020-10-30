@@ -1,6 +1,6 @@
  usage:
-1. download the zip of project on: <https://github.com/frozenleaves/lash/archive/master.zip>
- or clone the project on <https://github.com/frozenleaves/lash.git>
+1. download the zip of project on: <https://github.com/frozenleaves/lcsh/archive/master.zip>
+ or clone the project on <https://github.com/frozenleaves/lcsh.git>
 
 2. <font color=red>国内用户请看这里： 
 zip文件 <https://gitee.com/frozenleaves/lcsh/repository/archive/master.zip>
