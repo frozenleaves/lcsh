@@ -3,7 +3,6 @@
  or clone the project on <https://github.com/frozenleaves/lash.git>
 
 2. <font color=red>国内用户请看这里： 
-
 zip文件 <https://gitee.com/frozenleaves/lcsh/repository/archive/master.zip>
 
 git源码 <https://gitee.com/frozenleaves/lcsh.git></font>
