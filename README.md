@@ -2,8 +2,11 @@
 1. download the zip of project on: <https://github.com/frozenleaves/lash/archive/master.zip>
  or clone the project on <https://github.com/frozenleaves/lash.git>
 
-2. <font color=red>国内用户请看这里：download the zip of project on: <https://gitee.com/frozenleaves/lcsh/repository/archive/master.zip>
-or clone the project on <https://gitee.com/frozenleaves/lcsh.git></font>
+2. <font color=red>国内用户请看这里： 
+
+zip文件 <https://gitee.com/frozenleaves/lcsh/repository/archive/master.zip>
+
+git源码 <https://gitee.com/frozenleaves/lcsh.git></font>
 
 3. get into the source folder: <font color=red>```cd lcsh```</font>
 
