@@ -13,10 +13,10 @@ or clone the project on <https://github.com>
     c. ```using```
 
 
-4 using
+4. using
 
     usage:
     ./lcsh -i inputfile -o outputfil -m mode
     Do not change the params' order
     
-   2 mode you can select <font color=red>***ox***</font> and <font color=red>***ed***</font>
+   2 For param mode, you can select <font color=red>***ox***</font> or <font color=red>***ed***</font>

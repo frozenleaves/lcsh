@@ -2,9 +2,17 @@
 // Created by snow on 2020/10/29.
 //
 
+#ifdef __linux__
 #include <bits/stdc++.h>
+#elif __APPLE__
+#include <iosfwd>
+#include <regex>
+
+#endif
+// #include <bits/stdc++.h>
 #include <string>
 #include <iostream>
+#include <fstream>
 #include "tools.h"
 
 
